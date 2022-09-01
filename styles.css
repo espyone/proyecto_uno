@@ -130,7 +130,7 @@ cursor:pointer;
 }
 .card {
   margin: 30px;
-  padding: 20px 40px 40px;
+  padding: 20px 40px 10px;
   max-width: 500px;
   text-align: left;
   background: #fff;
@@ -141,7 +141,7 @@ cursor:pointer;
 /* WEBSITES CARD FOR EXPERIENCE PAGE */
 .websites_card p {
 color:rgb(25, 74, 111);
-padding:0 10px 0 -20px;}
+padding:0 10px 0 20px;}
 .websites_card .card-heading {
 padding-bottom:10px;
 color:rgb(35, 13, 13);
